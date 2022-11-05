@@ -1,0 +1,100 @@
+Z:\Itogovie_Test\Itogovie_Test\bin\Debug\Itogovie_Test.exe.config
+Z:\Itogovie_Test\Itogovie_Test\bin\Debug\Itogovie_Test.exe
+Z:\Itogovie_Test\Itogovie_Test\bin\Debug\Itogovie_Test.pdb
+Z:\Itogovie_Test\Itogovie_Test\obj\Debug\Itogovie_Test.csprojResolveAssemblyReference.cache
+Z:\Itogovie_Test\Itogovie_Test\obj\Debug\Itogovie_Test.Glavnoe.resources
+Z:\Itogovie_Test\Itogovie_Test\obj\Debug\Itogovie_Test.Ipotek.resources
+Z:\Itogovie_Test\Itogovie_Test\obj\Debug\Itogovie_Test.Kredit.resources
+Z:\Itogovie_Test\Itogovie_Test\obj\Debug\Itogovie_Test.Properties.Resources.resources
+Z:\Itogovie_Test\Itogovie_Test\obj\Debug\Itogovie_Test.Vkladi.resources
+Z:\Itogovie_Test\Itogovie_Test\obj\Debug\Itogovie_Test.csproj.GenerateResource.Cache
+Z:\Itogovie_Test\Itogovie_Test\obj\Debug\Itogovie_Test.exe
+Z:\Itogovie_Test\Itogovie_Test\obj\Debug\Itogovie_Test.pdb
+C:\Users\koten\OneDrive\Рабочий стол\Itogovie_Test\Itogovie_Test\obj\Debug\Itogovie_Test.csprojAssemblyReference.cache
+C:\Users\koten\OneDrive\Рабочий стол\Itogovie_Test\Itogovie_Test\obj\Debug\Itogovie_Test.exe
+C:\Users\koten\OneDrive\Рабочий стол\Itogovie_Test\Itogovie_Test\obj\Debug\Itogovie_Test.pdb
+C:\Users\koten\OneDrive\Рабочий стол\Itogovie_Test\Itogovie_Test\bin\Debug\Itogovie_Test.exe.config
+C:\Users\koten\OneDrive\Рабочий стол\Itogovie_Test\Itogovie_Test\bin\Debug\Itogovie_Test.exe
+C:\Users\koten\OneDrive\Рабочий стол\Itogovie_Test\Itogovie_Test\bin\Debug\Itogovie_Test.pdb
+C:\Users\koten\OneDrive\Рабочий стол\Itogovie_Test\Itogovie_Test\obj\Debug\Itogovie_Test.Glavnoe.resources
+C:\Users\koten\OneDrive\Рабочий стол\Itogovie_Test\Itogovie_Test\obj\Debug\Itogovie_Test.Properties.Resources.resources
+C:\Users\koten\OneDrive\Рабочий стол\Itogovie_Test\Itogovie_Test\obj\Debug\Itogovie_Test.csproj.GenerateResource.cache
+C:\Users\koten\OneDrive\Рабочий стол\Itogovie_Test\Itogovie_Test\obj\Debug\Itogovie_Test.csproj.CoreCompileInputs.cache
+E:\Itogovie_Test\Itogovie_Test\bin\Debug\Itogovie_Test.exe.config
+E:\Itogovie_Test\Itogovie_Test\bin\Debug\Itogovie_Test.exe
+E:\Itogovie_Test\Itogovie_Test\bin\Debug\Itogovie_Test.pdb
+E:\Itogovie_Test\Itogovie_Test\obj\Debug\Itogovie_Test.csprojAssemblyReference.cache
+E:\Itogovie_Test\Itogovie_Test\obj\Debug\Itogovie_Test.Glavnoe.resources
+E:\Itogovie_Test\Itogovie_Test\obj\Debug\Itogovie_Test.Properties.Resources.resources
+E:\Itogovie_Test\Itogovie_Test\obj\Debug\Itogovie_Test.csproj.GenerateResource.cache
+E:\Itogovie_Test\Itogovie_Test\obj\Debug\Itogovie_Test.csproj.CoreCompileInputs.cache
+E:\Itogovie_Test\Itogovie_Test\obj\Debug\Itogovie_Test.exe
+E:\Itogovie_Test\Itogovie_Test\obj\Debug\Itogovie_Test.pdb
+D:\Itogovie_Test\Itogovie_Test\bin\Debug\Itogovie_Test.exe.config
+D:\Itogovie_Test\Itogovie_Test\bin\Debug\Itogovie_Test.exe
+D:\Itogovie_Test\Itogovie_Test\bin\Debug\Itogovie_Test.pdb
+D:\Itogovie_Test\Itogovie_Test\obj\Debug\Itogovie_Test.csprojResolveAssemblyReference.cache
+D:\Itogovie_Test\Itogovie_Test\obj\Debug\Itogovie_Test.Glavnoe.resources
+D:\Itogovie_Test\Itogovie_Test\obj\Debug\Itogovie_Test.Properties.Resources.resources
+D:\Itogovie_Test\Itogovie_Test\obj\Debug\Itogovie_Test.csproj.GenerateResource.Cache
+D:\Itogovie_Test\Itogovie_Test\obj\Debug\Itogovie_Test.exe
+D:\Itogovie_Test\Itogovie_Test\obj\Debug\Itogovie_Test.pdb
+C:\Users\koten\OneDrive\Рабочий стол\Новая папка (4)\Itogovie_Test\Itogovie_Test\bin\Debug\Itogovie_Test.exe.config
+C:\Users\koten\OneDrive\Рабочий стол\Новая папка (4)\Itogovie_Test\Itogovie_Test\bin\Debug\Itogovie_Test.exe
+C:\Users\koten\OneDrive\Рабочий стол\Новая папка (4)\Itogovie_Test\Itogovie_Test\bin\Debug\Itogovie_Test.pdb
+C:\Users\koten\OneDrive\Рабочий стол\Новая папка (4)\Itogovie_Test\Itogovie_Test\obj\Debug\Itogovie_Test.csprojAssemblyReference.cache
+C:\Users\koten\OneDrive\Рабочий стол\Новая папка (4)\Itogovie_Test\Itogovie_Test\obj\Debug\Itogovie_Test.Glavnoe.resources
+C:\Users\koten\OneDrive\Рабочий стол\Новая папка (4)\Itogovie_Test\Itogovie_Test\obj\Debug\Itogovie_Test.Properties.Resources.resources
+C:\Users\koten\OneDrive\Рабочий стол\Новая папка (4)\Itogovie_Test\Itogovie_Test\obj\Debug\Itogovie_Test.csproj.GenerateResource.cache
+C:\Users\koten\OneDrive\Рабочий стол\Новая папка (4)\Itogovie_Test\Itogovie_Test\obj\Debug\Itogovie_Test.csproj.CoreCompileInputs.cache
+C:\Users\koten\OneDrive\Рабочий стол\Новая папка (4)\Itogovie_Test\Itogovie_Test\obj\Debug\Itogovie_Test.exe
+C:\Users\koten\OneDrive\Рабочий стол\Новая папка (4)\Itogovie_Test\Itogovie_Test\obj\Debug\Itogovie_Test.pdb
+C:\Users\koten\OneDrive\Рабочий стол\РАБОТА\Itogovie_Test\Itogovie_Test\bin\Debug\Itogovie_Test.exe.config
+C:\Users\koten\OneDrive\Рабочий стол\РАБОТА\Itogovie_Test\Itogovie_Test\bin\Debug\Itogovie_Test.exe
+C:\Users\koten\OneDrive\Рабочий стол\РАБОТА\Itogovie_Test\Itogovie_Test\bin\Debug\Itogovie_Test.pdb
+C:\Users\koten\OneDrive\Рабочий стол\РАБОТА\Itogovie_Test\Itogovie_Test\obj\Debug\Itogovie_Test.csprojAssemblyReference.cache
+C:\Users\koten\OneDrive\Рабочий стол\РАБОТА\Itogovie_Test\Itogovie_Test\obj\Debug\Itogovie_Test.Glavnoe.resources
+C:\Users\koten\OneDrive\Рабочий стол\РАБОТА\Itogovie_Test\Itogovie_Test\obj\Debug\Itogovie_Test.Properties.Resources.resources
+C:\Users\koten\OneDrive\Рабочий стол\РАБОТА\Itogovie_Test\Itogovie_Test\obj\Debug\Itogovie_Test.csproj.GenerateResource.cache
+C:\Users\koten\OneDrive\Рабочий стол\РАБОТА\Itogovie_Test\Itogovie_Test\obj\Debug\Itogovie_Test.csproj.CoreCompileInputs.cache
+C:\Users\koten\OneDrive\Рабочий стол\РАБОТА\Itogovie_Test\Itogovie_Test\obj\Debug\Itogovie_Test.exe
+C:\Users\koten\OneDrive\Рабочий стол\РАБОТА\Itogovie_Test\Itogovie_Test\obj\Debug\Itogovie_Test.pdb
+D:\РАБОТА\Itogovie_Test\Itogovie_Test\bin\Debug\Itogovie_Test.exe.config
+D:\РАБОТА\Itogovie_Test\Itogovie_Test\bin\Debug\Itogovie_Test.exe
+D:\РАБОТА\Itogovie_Test\Itogovie_Test\bin\Debug\Itogovie_Test.pdb
+D:\РАБОТА\Itogovie_Test\Itogovie_Test\obj\Debug\Itogovie_Test.Glavnoe.resources
+D:\РАБОТА\Itogovie_Test\Itogovie_Test\obj\Debug\Itogovie_Test.Properties.Resources.resources
+D:\РАБОТА\Itogovie_Test\Itogovie_Test\obj\Debug\Itogovie_Test.csproj.GenerateResource.Cache
+D:\РАБОТА\Itogovie_Test\Itogovie_Test\obj\Debug\Itogovie_Test.exe
+D:\РАБОТА\Itogovie_Test\Itogovie_Test\obj\Debug\Itogovie_Test.pdb
+D:\РАБОТА\Itogovie_Test\Itogovie_Test\obj\Debug\Itogovie_Test.csproj.ResolveComReference.cache
+E:\РАБОТА\Itogovie_Test\Itogovie_Test\obj\Debug\Interop.Office.dll
+E:\РАБОТА\Itogovie_Test\Itogovie_Test\obj\Debug\Itogovie_Test.exe
+E:\РАБОТА\Itogovie_Test\Itogovie_Test\obj\Debug\Itogovie_Test.pdb
+D:\РАБОТА\Itogovie_Test\Itogovie_Test\obj\Debug\Itogovie_Test.csprojResolveAssemblyReference.cache
+D:\РАБОТА\Itogovie_Test\Itogovie_Test\obj\Debug\Interop.Microsoft.Vbe.Interop.Forms.dll
+D:\РАБОТА\Itogovie_Test\Itogovie_Test\obj\Debug\Interop.Excel.dll
+D:\РАБОТА\Itogovie_Test\Itogovie_Test\obj\Debug\Interop.Office.dll
+E:\РАБОТА\Itogovie_Test\Itogovie_Test\bin\Debug\Itogovie_Test.exe.config
+E:\РАБОТА\Itogovie_Test\Itogovie_Test\bin\Debug\Itogovie_Test.exe
+E:\РАБОТА\Itogovie_Test\Itogovie_Test\bin\Debug\Itogovie_Test.pdb
+E:\РАБОТА\Itogovie_Test\Itogovie_Test\obj\Debug\Itogovie_Test.csprojResolveAssemblyReference.cache
+E:\РАБОТА\Itogovie_Test\Itogovie_Test\obj\Debug\Interop.Excel.dll
+E:\РАБОТА\Itogovie_Test\Itogovie_Test\obj\Debug\Interop.Microsoft.Vbe.Interop.Forms.dll
+E:\РАБОТА\Itogovie_Test\Itogovie_Test\obj\Debug\Itogovie_Test.csproj.ResolveComReference.cache
+E:\РАБОТА\Itogovie_Test\Itogovie_Test\obj\Debug\Itogovie_Test.Glavnoe.resources
+E:\РАБОТА\Itogovie_Test\Itogovie_Test\obj\Debug\Itogovie_Test.Properties.Resources.resources
+E:\РАБОТА\Itogovie_Test\Itogovie_Test\obj\Debug\Itogovie_Test.csproj.GenerateResource.Cache
+E:\РАБОТА\Itogovie_Test\Itogovie_Test\obj\Debug\Itogovie_Test.csprojAssemblyReference.cache
+C:\Users\koten\OneDrive\Рабочий стол\кыкуц\РАБОТА\Itogovie_Test\Itogovie_Test\obj\Debug\Itogovie_Test.csprojAssemblyReference.cache
+C:\Users\koten\OneDrive\Рабочий стол\кыкуц\РАБОТА\Itogovie_Test\Itogovie_Test\obj\Debug\Interop.Office.dll
+C:\Users\koten\OneDrive\Рабочий стол\кыкуц\РАБОТА\Itogovie_Test\Itogovie_Test\obj\Debug\Itogovie_Test.exe
+C:\Users\koten\OneDrive\Рабочий стол\кыкуц\РАБОТА\Itogovie_Test\Itogovie_Test\obj\Debug\Itogovie_Test.pdb
+C:\Users\koten\OneDrive\Рабочий стол\кыкуц\РАБОТА\Itogovie_Test\Itogovie_Test\bin\Debug\Itogovie_Test.exe.config
+C:\Users\koten\OneDrive\Рабочий стол\кыкуц\РАБОТА\Itogovie_Test\Itogovie_Test\bin\Debug\Itogovie_Test.exe
+C:\Users\koten\OneDrive\Рабочий стол\кыкуц\РАБОТА\Itogovie_Test\Itogovie_Test\bin\Debug\Itogovie_Test.pdb
+C:\Users\koten\OneDrive\Рабочий стол\кыкуц\РАБОТА\Itogovie_Test\Itogovie_Test\obj\Debug\Itogovie_Test.csproj.ResolveComReference.cache
+C:\Users\koten\OneDrive\Рабочий стол\кыкуц\РАБОТА\Itogovie_Test\Itogovie_Test\obj\Debug\Itogovie_Test.Glavnoe.resources
+C:\Users\koten\OneDrive\Рабочий стол\кыкуц\РАБОТА\Itogovie_Test\Itogovie_Test\obj\Debug\Itogovie_Test.Properties.Resources.resources
+C:\Users\koten\OneDrive\Рабочий стол\кыкуц\РАБОТА\Itogovie_Test\Itogovie_Test\obj\Debug\Itogovie_Test.csproj.GenerateResource.cache
+C:\Users\koten\OneDrive\Рабочий стол\кыкуц\РАБОТА\Itogovie_Test\Itogovie_Test\obj\Debug\Itogovie_Test.csproj.CoreCompileInputs.cache
